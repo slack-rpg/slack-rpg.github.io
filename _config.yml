@@ -7,7 +7,7 @@
 
 # Site settings
 title: Slack RPG
-email: slack-rpg@shaunburdick.com
+email: info@slack-rpg.xyz
 description: > # this means to ignore newlines until "baseurl:"
   Slack RPG is a RPG game run by a Game Master Bot in your Slack Channel.
   Each channel the bot is invited to becomes a new location in the world.
