@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Slack RPG
+email: slack-rpg@shaunburdick.com
+description: > # this means to ignore newlines until "baseurl:"
+  Slack RPG is a RPG game run by a Game Master Bot in your Slack Channel.
+  Each channel the bot is invited to becomes a new location in the world.
+  Players can create a character and join in on the fun!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://slack-rpg.github.io" # the base hostname & protocol for your site
+twitter_username: _shaunburdick
+github_username:  slack-rpg
+
+# Build settings
+markdown: kramdown
